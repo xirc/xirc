@@ -1,6 +1,7 @@
 Hi there, I'm Taichi. 👋
 
-I work as software engineer using Scala and Akka.
+I work as software engineer.
+I use Scala and Akka these days.
 
 <p aligh="center">
   <a href="https://twitter.com/xirc"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" /></a>
