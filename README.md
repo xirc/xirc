@@ -1,6 +1,6 @@
 Hi there, I'm Taichi. 👋
 
-I work as software engineer.
+I work as a software developer.
 I use Scala and Akka these days.
 
 <p aligh="center">
