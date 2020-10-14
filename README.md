@@ -4,11 +4,11 @@ I work as a software developer.
 I use Scala and Akka these days.
 
 <p aligh="center">
-  <a href="https://twitter.com/xirc"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/taichi-yamakawa/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/xirc/"><img src="https://img.shields.io/badge/LeetCode--_.svg?style=social&logo=leetcode" alt="LeetCode" /></a>
-  <a href="https://www.qwiklabs.com/public_profiles/453678b9-dd3d-46cb-a8b0-6c582f79deb8"><img src="https://img.shields.io/badge/Qwiklabs--_.svg?style=social&logo=qwiklabs" alt="Qwiklabs" /></a>
-  <a href="https://www.youracclaim.com/users/taichi-yamakawa"><img src="https://img.shields.io/badge/Acclaim--_.svg?style=social" alt="Acclaim"></a>
+  <a href="https://twitter.com/xirc"><img src="https://img.shields.io/badge/-@xirc-1DA1F2.svg?style=flat&logo=twitter&logoColor=FFFFFF" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/taichi-yamakawa/"><img src="https://img.shields.io/badge/-Taichi-0077B5.svg?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/xirc/"><img src="https://img.shields.io/badge/-@xirc-F89F1B.svg?style=flat&logo=leetcode&logoColor=222222" alt="LeetCode" /></a>
+  <a href="https://www.qwiklabs.com/public_profiles/453678b9-dd3d-46cb-a8b0-6c582f79deb8"><img src="https://img.shields.io/badge/-Taichi-F5CD0E.svg?style=flat&logo=qwiklabs&logoColor=222222" alt="Qwiklabs" /></a>
+  <a href="https://www.youracclaim.com/users/taichi-yamakawa"><img src="https://img.shields.io/badge/Acclaim-Taichi-256899.svg?style=flat" alt="Acclaim"></a>
 </p>
 
 <p aligh="center">
