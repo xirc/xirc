@@ -16,3 +16,7 @@ I use Scala and Akka these days.
   <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" alt="csharp" />
   <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" alt="unity" />
 </p>
+
+[![Taichi Yamakawa's github stats](https://github-readme-stats.vercel.app/api?username=xirc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xirc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
