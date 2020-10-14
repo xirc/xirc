@@ -12,9 +12,32 @@ I use Scala and Akka these days.
 </p>
 
 <p aligh="center">
-  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/scala.svg" alt="scala" />
-  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" alt="csharp" />
-  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" alt="unity" />
+  <a href="https://codeforces.com/profile/ninja"><img src="https://img.shields.io/badge/-@ninja-1F8ACB.svg?style=flat&logo=codeforces&logoColor=FFFFFF" alt="Codeforces" /></a>
+  <a href="https://atcoder.jp/users/xirc"><img src="https://img.shields.io/badge/AtCoder-@xirc-231815.svg?style=flat&logo=atcoder&logoColor=FFFFFF" alt="AtCoder" /></a>
+  <a href="https://www.codechef.com/users/xirc"><img src="https://img.shields.io/badge/-@xirc-5B4638.svg?style=flat&logo=codechef&logoColor=FFFFFF" alt="CodeChef" /></a>
+</p>
+
+<p aligh="center">
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/scala.svg" alt="Scala" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/csharp.svg" alt="CSharp" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" alt="C++" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/unity.svg" alt="Unity" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/intellijidea.svg" alt="IntelliJ IDEA" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" alt="Kubernetes" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" alt="Docker" />
+</p>
+
+<p>
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/python.svg" alt="Python" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/kotlin.svg" alt="Kotlin" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/haskell.svg" alt="Haskell" />
+<p>
+
+<p>
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/playstation4.svg" alt="PlayStation4" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/nintendoswitch.svg" alt="NintendoSwitch" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/steam.svg" alt="Steam" />
+  <img height="16" width="16" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" alt="Discord" />
 </p>
 
 [![Taichi Yamakawa's github stats](https://github-readme-stats.vercel.app/api?username=xirc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
